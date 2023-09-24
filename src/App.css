@@ -18,7 +18,7 @@
      font-family: Lato, sans-serif;
 }
 
-.contenedor-principal{
+.main-container {
     height: 550px;
     min-width: 600px;
     display: flex;
